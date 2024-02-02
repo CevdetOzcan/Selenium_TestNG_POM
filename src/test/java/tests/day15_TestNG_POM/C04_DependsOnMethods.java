@@ -83,4 +83,15 @@ public class C04_DependsOnMethods {
         Driver.quitDriver();
 
     } // ilk urun isim testi
+
+
+    /*
+    echo "# Selenium_TestNG_POM" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/CevdetOzcan/Selenium_TestNG_POM.git
+git push -u origin main
+     */
 }
